@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Image Search</string>
+    <string name="search">Search</string>
+    <string name="hex">Hex:</string>
+    <string name="title">Title:</string>
+    <string name="connection_issue">Connection Issue</string>
+    <string name="network_is_not_available">Network is not available</string>
+    <string name="detail_not_found">Detail Not Found</string>
+</resources>
