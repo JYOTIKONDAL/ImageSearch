@@ -1,1 +1,1 @@
-This is a simple application for image search with a proper MVVM architecture , use of Dagger Hilt , Retrofit and Couroutines.
+This is a simple image search application built with a clean MVVM architecture, utilizing Dagger Hilt for dependency injection, Retrofit for network communication, and Coroutines for asynchronous operations.
